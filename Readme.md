@@ -37,3 +37,15 @@ train the multi layer YOLOv4 deep neural network.
 + FPS : Classical method can be used with high FPS to detect number plate and output in
 a video based input as compared to YOLOv4 based plate detection.
 
+## Some Outputs
+### Method1
+![img1](https://github.com/AnmolGarg98/AUTOMATIC-NUMBER-PLATE-DETECTION-SYSTEM/blob/main/sample_output/output1/Screenshot%202021-12-11%20at%207.44.20%20PM.png)
+![img2](https://github.com/AnmolGarg98/AUTOMATIC-NUMBER-PLATE-DETECTION-SYSTEM/blob/main/sample_output/output1/Screenshot%202021-12-12%20at%205.26.47%20PM.png)
+![img3](https://github.com/AnmolGarg98/AUTOMATIC-NUMBER-PLATE-DETECTION-SYSTEM/blob/main/sample_output/output1/Screenshot%202021-12-12%20at%208.16.23%20PM.png)
+![img4](https://github.com/AnmolGarg98/AUTOMATIC-NUMBER-PLATE-DETECTION-SYSTEM/blob/main/sample_output/output1/Screenshot%202021-12-12%20at%208.16.58%20PM.png)
+
+###Method2
+![img1](https://github.com/AnmolGarg98/AUTOMATIC-NUMBER-PLATE-DETECTION-SYSTEM/blob/main/sample_output/output2/Picture1.png)
+![img2](https://github.com/AnmolGarg98/AUTOMATIC-NUMBER-PLATE-DETECTION-SYSTEM/blob/main/sample_output/output2/Picture2.png)
+![img3](https://github.com/AnmolGarg98/AUTOMATIC-NUMBER-PLATE-DETECTION-SYSTEM/blob/main/sample_output/output2/Picture3.png)
+![img4](https://github.com/AnmolGarg98/AUTOMATIC-NUMBER-PLATE-DETECTION-SYSTEM/blob/main/sample_output/output2/Picture4.png)
